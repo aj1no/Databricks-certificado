@@ -1,6 +1,6 @@
-# Databricks Certification Prep
+# Preparatório para Certificação Databricks
 
-*[Ler em Português](README.pt-br.md)*
+*[Read in English](README.md)*
 
 [![Databricks](https://img.shields.io/badge/Databricks-Spark-FF3600?style=flat-square&logo=databricks&logoColor=white)](https://databricks.com/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -8,32 +8,32 @@
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![CI](https://img.shields.io/github/actions/workflow/status/aj1no/Databricks-certificado/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/aj1no/Databricks-certificado/actions)
 
-This repository contains study notebooks, scripts, and practice exercises developed to prepare for Databricks certifications (such as the Databricks Certified Associate Developer for Apache Spark).
+Este repositório contém notebooks de estudo, scripts e exercícios práticos desenvolvidos para a preparação para as certificações da Databricks (como a Databricks Certified Associate Developer for Apache Spark).
 
 ---
 
-## Repository Structure
+## Estrutura do Repositório
 
 ```text
-├── 01.Comandos Básicos/    # Basic commands and environment setup notebooks
-└── .github/                # CI workflows and issue templates
+├── 01.Comandos Básicos/    # Notebooks com comandos básicos e configuração de ambiente
+└── .github/                # Workflows de CI e templates de issues
 ```
 
 ---
 
-## Getting Started
+## Como Começar
 
-1. **Prerequisites:**
-   To run the notebooks locally, you need Python and PySpark installed:
+1. **Pré-requisitos:**
+   Para executar os notebooks localmente, você precisará do Python e do PySpark instalados:
    ```bash
    pip install pyspark jupyter
    ```
 
-2. **Running the Notebooks:**
-   Launch Jupyter Notebook in the repository root:
+2. **Executando os Notebooks:**
+   Inicie o Jupyter Notebook na raiz do repositório:
    ```bash
    jupyter notebook
    ```
 
 ---
-*Developed by Rodolfo Vinicius Cima Takemoto for Databricks Certification studies.*
+*Desenvolvido por Rodolfo Vinicius Cima Takemoto para estudos da Certificação Databricks.*
