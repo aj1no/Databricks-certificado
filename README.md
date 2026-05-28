@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/aj1no/Databricks-certificado/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/aj1no/Databricks-certificado/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/aj1no/databricks-certification-prep/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/aj1no/databricks-certification-prep/actions)
 
 This repository contains study notebooks, scripts, and practice exercises developed to prepare for Databricks certifications (such as the Databricks Certified Associate Developer for Apache Spark).
 
